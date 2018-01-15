@@ -42,7 +42,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Circle
 
 backgroundcolor = '#faf2eb'
-fontname = 'Lato'
+fontname = 'Courier New'
 yearname = '2017'
 
 data2017 = {
